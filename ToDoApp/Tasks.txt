@@ -1,0 +1,42 @@
+TaskID:1
+Title:Algorithem
+Description:cs night event
+dueDate:2022-10-16
+isCompleted:Completed
+
+TaskID:2
+Title:2nd yr exam
+Description:sem 1 exam
+dueDate:2023-10-16
+isCompleted:Completed
+
+TaskID:3
+Title:2nd yr exam
+Description:sem 2 exam
+dueDate:2024-02-12
+isCompleted:Not Completed
+
+TaskID:4
+Title:Aurora
+Description:cs event
+dueDate:2023-12-12
+isCompleted:Not Completed
+
+TaskID:5
+Title:Project
+Description:Task Manger
+dueDate:2023-11-05
+isCompleted:Completed
+
+TaskID:6
+Title:birthday
+Description:party
+dueDate:2023-09-14
+isCompleted:Not Completed
+
+TaskID:7
+Title:sisi arudathi
+Description:jpura event
+dueDate:2023-12-28
+isCompleted:Not Completed
+
